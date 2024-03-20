@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="jupyter-autodl-container-d70b4d982c-6cc78c42-0ab1d9405a1a845659d1334d5f5c116164a6878596a1243b7b7281f56e710a386" />
+          <option name="urlString" value="https://a51218-982c-6cc78c42.bjb1.seetacloud.com:8443/jupyter/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="jupyter-autodl-container-d70b4d982c-6cc78c42-0ab1d9405a1a845659d1334d5f5c116164a6878596a1243b7b7281f56e710a386" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
+          <option name="urlString" value="https://a51218-abc9-041e4850.bjb1.seetacloud.com:8443/jupyter/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/chapter8.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
+              <option name="urlString" value="https://a51218-abc9-041e4850.bjb1.seetacloud.com:8443/jupyter/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
