@@ -13,35 +13,7 @@
             </map>
           </authParams2>
         </JupyterConnectionParameters>
-        <JupyterConnectionParameters>
-          <option name="authType" value="notebook" />
-          <option name="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
-          <option name="urlString" value="https://a51218-abc9-041e4850.bjb1.seetacloud.com:8443/jupyter/" />
-          <authParams2>
-            <map>
-              <entry key="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
-            </map>
-          </authParams2>
-        </JupyterConnectionParameters>
       </list>
-    </option>
-    <option name="moduleParameters">
-      <map>
-        <entry key="$PROJECT_DIR$/.idea/chapter8.iml">
-          <value>
-            <JupyterConnectionParameters>
-              <option name="authType" value="notebook" />
-              <option name="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
-              <option name="urlString" value="https://a51218-abc9-041e4850.bjb1.seetacloud.com:8443/jupyter/" />
-              <authParams2>
-                <map>
-                  <entry key="token" value="jupyter-autodl-container-5cd04dabc9-041e4850-6d8633b62303d4e01b7a46cc37c875e78e207f2f8350641b392a698f1ea54c9a8" />
-                </map>
-              </authParams2>
-            </JupyterConnectionParameters>
-          </value>
-        </entry>
-      </map>
     </option>
   </component>
 </project>
