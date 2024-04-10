@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fdf3a673-12f4-4fab-81e2-549d66820f76" name="Forcode-desktop">
+        <fileTransfer rootFolder="/C:/Users/OnePie" accessType="SFTP" host="10.243.155.103" port="22" sshConfigId="208f33a1-c215-4a92-9da5-1df7917491a1" sshConfig="OnePie@10.243.155.103:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
